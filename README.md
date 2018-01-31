@@ -1,4 +1,7 @@
 # Object detection
+
+* Prediction Accuracy: **96.15%**
+
 ---
 ## Train phone detection
 
