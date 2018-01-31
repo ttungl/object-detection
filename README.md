@@ -1,5 +1,6 @@
-
-# Train phone detector
+# Object detection
+---
+## Train phone detection
 
 
 ```python
@@ -111,8 +112,8 @@ run_test_model(img_folder) # sys.argv[1]
 
 ![png](output/output_2_0.png)
 
-
-# Find phone 
+---
+## Find phone 
 
 
 ```python
