@@ -21,7 +21,6 @@ import glob
 import sys
 import cPickle
 import random
-import cv2
 
 ```
 
@@ -127,8 +126,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cPickle
 import sys
-import cv2
-
 
 ```
 
